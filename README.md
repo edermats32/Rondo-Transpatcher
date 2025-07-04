@@ -36,6 +36,11 @@ cd Rondo-Transpatcher
 
 
 # Patch Guide
+If you are feeling adventurous, there are a `readme.txt` in each folder that explains things.  
+But if you arent, continue reading.  
+
+Choose your operating system:
+
 <details>
 <summary>Windows</summary>
 
