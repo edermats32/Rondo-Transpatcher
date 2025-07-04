@@ -25,7 +25,7 @@ Download this repo as a zip:
 Extract the zip and enter the directory.
 
 ### Git method
-Alternativly, just juse `git`:
+Alternativly, just use `git`:
 ```
 git clone https://github.com/edermats32/Rondo-Transpatcher.git
 ```
