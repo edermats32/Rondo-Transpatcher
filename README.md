@@ -36,9 +36,6 @@ cd Rondo-Transpatcher
 
 
 # Patch Guide
-If you are feeling adventurous, there are a `readme.txt` in each folder that explains things.  
-But if you arent, continue reading.  
-
 Choose your operating system:
 
 <details>
@@ -50,3 +47,6 @@ Choose your operating system:
 <summary>Linux</summary>
 
 </details>
+
+If you are feeling adventurous, there is a `readme.txt` in each folder that explains some things.  
+They don't really serve much purpose, but might be fun to read.
