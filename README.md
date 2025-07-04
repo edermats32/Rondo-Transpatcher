@@ -6,7 +6,7 @@ This is **NOT** a new translation just a new patcher script, since I had some pr
 All hacking credit goes to the creators of the patch: https://www.romhacking.net/translations/846/  
 The patch is however included in this repo for user convinience.
 
-Anyway, I have created two seperate scripts.  
+I have created two seperate scripts.  
 A Powershell 5 Script for Windows users and a SHELL Script for Linux users.  
 
 Yes, you will have to use the terminal. **But do not fear!**  
