@@ -5,7 +5,8 @@ A new Translation Patcher for Rondo of Blood's English Patch.
 This is **NOT** a new translation just a new patcher script, since I had some problems with the old patcher.  
 All hacking credit goes to the creators of the patch: https://www.romhacking.net/translations/846/
 
-Anyway, I have created two seperate scripts. One SHELL Script for Linux users and one Powershell 5 Script for Windows users.  
+Anyway, I have created two seperate scripts.  
+A Powershell 5 Script for Windows users and a SHELL Script for Linux users.  
 
 Yes, you will have to use the terminal. **But do not fear!**  
 I have attempted to make the experience as user friendly as possibly with overly detailed instructions. 
