@@ -9,11 +9,29 @@ All hacking credit goes to the creators of the patch: https://www.romhacking.net
 Anyway, I have created two seperate scripts. One SHELL Script for Linux users and one Powershell 5 Script for Windows users.  
 
 Yes, you will have to use the terminal. **But do not fear!**  
-I have attempted to make the experience as user friendly as possibly with overly detailed instructions.
+I have attempted to make the experience as user friendly as possibly with overly detailed instructions. 
+
+# Disclaimer
+
+*For obvious reasons, I will not show you how to obtain the game files. You should, of course, buy a legitimate copy (they go for around $200 on eBay) and rip it yourself. Pretty cool to own if nothing else — but I'm getting off-topic.*
+
+*Anyway, **I do not endorse or condone piracy of any kind**. This repo includes some audio and imagery from the game — nothing that can't easily be found on YouTube or with a quick Google image search.  
+If the rightful owners believe any content in this repo should be taken down, I will promptly and willingly comply.*
 
 # Setup
+### Zip method
+Download this repo as a zip:  
+<insert screenshot>
+Extract the zip and enter the directory.
 
-Download this repo as a zip:
+### Git method
+Alternativly, just juse `git`:
+```
+git clone https://github.com/edermats32/Rondo-Transpatcher.git
+```
+```
+cd Rondo-Transpatcher
+```
 
 
 # Patch Guide
