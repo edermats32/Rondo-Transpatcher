@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Disclaimer](#disclaimer)
+- [Requirements](#requirements)
 - [Setup](#setup)
     + [Get the files from this repo](#get-the-files-from-this-repo)
 - [Patch Guide](#patch-guide)
@@ -26,6 +27,14 @@ I have attempted to make the experience as user friendly as possibly with overly
 
 *Anyway, **I do not endorse or condone piracy of any kind**. This repo includes some audio and imagery from the game — nothing that can't easily be found on YouTube or with a quick Google image search.  
 If the rightful owners believe any content in this repo should be taken down, I will promptly and willingly comply.*
+
+# Requirements
+- 64bit version of Windows or 64bit version of Linux
+- Python 3 if your using Linux (only if you have multiple bin-files)
+- A willingness to use a terminal and read instructions
+- Thats pretty much it, maybe some coffee i guess
+  
+I provide all binaries used in the script through this repo, so you shouldn't have to install anything (except python3, as explained above).
 
 # Setup
 ## Get the files from this repo
