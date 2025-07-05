@@ -1,5 +1,5 @@
 # Rondo-Transpatcher
-### Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Disclaimer](#disclaimer)
 - [Setup](#setup)
