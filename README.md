@@ -30,11 +30,13 @@ If the rightful owners believe any content in this repo should be taken down, I 
 
 # Requirements
 - 64bit version of Windows or 64bit version of Linux
-- Python 3 if your using Linux (only if you have multiple bin-files)
 - A willingness to use a terminal and read instructions
 - Thats pretty much it, maybe some coffee i guess
+
+Linux specific:
+- Python 3 (only if you have multiple bin-files)
   
-I provide all binaries used in the script through this repo, so you shouldn't have to install anything (except python3, as explained above).  
+I provide all (non standard) binaries used in the script through this repo, so you shouldn't have to install anything (except python3, as explained above).  
 
 *The scripts are only tested on Arch Linux and Windows 11.  
 But other Linux distros and Windows versions should work fine (as long as they are 64-bit).*
