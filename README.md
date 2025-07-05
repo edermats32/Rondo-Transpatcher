@@ -5,7 +5,6 @@
 - [Requirements](#requirements)
 - [Setup](#setup)
     + [Get the files from this repo](#get-the-files-from-this-repo)
-
 - [Patch Guide](#patch-guide)
 
 # Introduction
