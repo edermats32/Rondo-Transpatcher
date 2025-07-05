@@ -1,6 +1,4 @@
 # Rondo-Transpatcher
-![image](https://github.com/user-attachments/assets/7be4009e-9ad8-4f20-a434-6456846d08f2)  
-
 ### Table of Contents
 - [Introduction](#introduction)
 - [Disclaimer](#disclaimer)
@@ -8,9 +6,8 @@
     + [Get the files from this repo](#get-the-files-from-this-repo)
 - [Patch Guide](#patch-guide)
 
-
-
 # Introduction
+![image](https://github.com/user-attachments/assets/7be4009e-9ad8-4f20-a434-6456846d08f2)  
 
 A new Translation Patcher for Rondo of Blood's English Patch.  
 This is **NOT** a new translation just a new patcher script, since I had some problems with the old patcher.  
