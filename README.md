@@ -1,6 +1,17 @@
 # Rondo-Transpatcher
 ![image](https://github.com/user-attachments/assets/7be4009e-9ad8-4f20-a434-6456846d08f2)  
 
+### Table of Contents
+- [Introduction](#introduction)
+- [Disclaimer](#disclaimer)
+- [Setup](#setup)
+    + [Get the files from this repo](#get-the-files-from-this-repo)
+- [Patch Guide](#patch-guide)
+
+
+
+# Introduction
+
 A new Translation Patcher for Rondo of Blood's English Patch.  
 This is **NOT** a new translation just a new patcher script, since I had some problems with the old patcher.  
 All hacking credit goes to the creators of the patch: https://www.romhacking.net/translations/846/  
@@ -20,6 +31,7 @@ I have attempted to make the experience as user friendly as possibly with overly
 If the rightful owners believe any content in this repo should be taken down, I will promptly and willingly comply.*
 
 # Setup
+## Get the files from this repo
 ### Zip method
 Download this repo as a zip:  
 <insert screenshot>
@@ -33,8 +45,6 @@ git clone https://github.com/edermats32/Rondo-Transpatcher.git
 ```
 cd Rondo-Transpatcher
 ```
-
-
 # Patch Guide
 Choose your operating system:
 
