@@ -31,7 +31,7 @@ If the rightful owners believe any content in this repo should be taken down, I 
 ## Get the files from this repo
 ### Zip method
 Download this repo as a zip:  
-<insert screenshot>
+<insert screenshot<>>
 Extract the zip and enter the directory.
 
 ### Git method
