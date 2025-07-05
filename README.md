@@ -34,7 +34,8 @@ If the rightful owners believe any content in this repo should be taken down, I 
 - A willingness to use a terminal and read instructions
 - Thats pretty much it, maybe some coffee i guess
   
-I provide all binaries used in the script through this repo, so you shouldn't have to install anything (except python3, as explained above).
+I provide all binaries used in the script through this repo, so you shouldn't have to install anything (except python3, as explained above).  
+I only tested on Arch Linux and Windows 11. But other Linux distros and Windows versions should work fine (as long as they are 64-bit).
 
 # Setup
 ## Get the files from this repo
@@ -55,12 +56,12 @@ cd Rondo-Transpatcher
 Choose your operating system:
 
 <details>
-<summary>Windows</summary>
+<summary>Windows (64-bit)</summary>
 
 </details>
 
 <details>
-<summary>Linux</summary>
+<summary>Linux (64-bit)</summary>
 
 </details>
 
