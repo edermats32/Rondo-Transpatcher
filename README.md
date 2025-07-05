@@ -35,7 +35,9 @@ If the rightful owners believe any content in this repo should be taken down, I 
 - Thats pretty much it, maybe some coffee i guess
   
 I provide all binaries used in the script through this repo, so you shouldn't have to install anything (except python3, as explained above).  
-The scripts are only tested on Arch Linux and Windows 11. But other Linux distros and Windows versions should work fine (as long as they are 64-bit).
+
+*The scripts are only tested on Arch Linux and Windows 11.  
+But other Linux distros and Windows versions should work fine (as long as they are 64-bit).*
 
 # Setup
 ## Get the files from this repo
