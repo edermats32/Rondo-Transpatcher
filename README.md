@@ -36,14 +36,19 @@ I have attempted to make the experience as user friendly as possibly with overly
 If the rightful owners believe any content in this repo should be taken down, I will promptly and willingly comply.*
 
 # Requirements
-- 64bit version of Windows or 64bit version of Linux
+General:
+- 64bit version of Windows or Linux
 - A willingness to use a terminal and read instructions
 - Thats pretty much it, maybe some coffee i guess
 
+Windows specific:
+- Powershell 5 (should come with Windows 10 and above)
+
 Linux specific:
 - Python 3 (only if you have multiple bin-files)
+- POSIX compliant SHELL (ex. `bash` or `dash`)
   
-I provide all (non standard) binaries used in the script through this repo, so you shouldn't have to install anything (except python3, as explained above).  
+I provide all (non standard) binaries used in the script through this repo, so you shouldn't have to install anything (except `python3`, as explained above).  
 
 *The scripts are only tested on Arch Linux and Windows 11.  
 But other Linux distros and Windows versions should work fine (as long as they are 64-bit).*
