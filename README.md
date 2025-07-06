@@ -1,12 +1,19 @@
 # Rondo-Transpatcher
 ![image](https://github.com/user-attachments/assets/7be4009e-9ad8-4f20-a434-6456846d08f2)  
+Just a script to apply the Rondo of Blood English Translation Patch.
 ## Table of Contents
+#### Informative stuff:
 - [Introduction](#introduction)
 - [Disclaimer](#disclaimer)
+
+#### The stuff *you're* interested in:
 - [Requirements](#requirements)
 - [Setup](#setup)
     + [Get the files from this repo](#get-the-files-from-this-repo)
 - [Patch Guide](#patch-guide)
+
+#### Nerd stuff:
+- [Manual Patching (for nerds)](#manual-patching-for-nerds)
 
 # Introduction
 
@@ -71,3 +78,5 @@ Choose your operating system:
 
 If you are feeling adventurous, there is a `readme.txt` in each folder that explains some things.  
 They don't really serve much purpose, but might be fun to read.
+
+# Manual Patching (for nerds)
