@@ -1,5 +1,5 @@
 # Rondo-Transpatcher
-![image](https://github.com/user-attachments/assets/7be4009e-9ad8-4f20-a434-6456846d08f2)  
+![Rondo-Transpatcher Logo](https://github.com/user-attachments/assets/7be4009e-9ad8-4f20-a434-6456846d08f2)  
 Just a script to apply the Rondo of Blood English Translation Patch.
 ## Table of Contents
 #### Informative stuff:
@@ -8,6 +8,8 @@ Just a script to apply the Rondo of Blood English Translation Patch.
 
 #### The stuff *you're* interested in:
 - [Requirements](#requirements)
+    + [Game](#game)
+    + [System](#system)
 - [Setup](#setup)
     + [Get the files from this repo](#get-the-files-from-this-repo)
 - [Patch Guide](#patch-guide)
@@ -36,15 +38,26 @@ I have attempted to make the experience as user friendly as possibly with overly
 If the rightful owners believe any content in this repo should be taken down, I will promptly and willingly comply.*
 
 # Requirements
-General:
-- 64bit version of Windows or Linux
-- A willingness to use a terminal and read instructions
-- Thats pretty much it, maybe some coffee i guess
+## Game
+A copy of [Akumajō Dracula X: Chi no Rondo](https://www.ebay.com/sch/i.html?_nkw=Akumaj%C5%8D+Dracula+X%3A+Chi+no+Rondo) ripped to any of these formats:
+- CUE-file + ISO & WAV Tracks  
+Track02 and Track22 as ISO, the rest in WAV.
 
-Windows specific:
+- CUE-file + One large bin-file  
+The bin-file contains all 22 tracks.
+  
+- CUE-file + BIN tracks
+All 22 tracks are in separate bin-files.
+
+## System
+#### General:
+- 64bit version of Windows or Linux
+- A willingness to use a terminal
+
+##### Windows specific:
 - Powershell 5 (should come with Windows 10 and above)
 
-Linux specific:
+#### Linux specific:
 - Python 3 (only if you have multiple bin-files)
 - POSIX compliant SHELL (ex. `bash` or `dash`)
   
