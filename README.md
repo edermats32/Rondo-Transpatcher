@@ -80,5 +80,5 @@ If you are feeling adventurous, there is a `readme.txt` in each folder that expl
 They don't really serve much purpose, but might be fun to read.
 
 # Manual Patching (for nerds)
-This section goes through what the script does.  
-Do this if you rather run the commands yourself, or maybe you just don't trust my scripts.
+Here is how you can patch the game without my scripts.  
+This is for you who rather run the commands yourself, or maybe you just don't trust my scripts.
