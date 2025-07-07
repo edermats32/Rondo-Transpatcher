@@ -21,6 +21,8 @@ Just a script to apply the Rondo of Blood English Translation Patch.
 
 A new Translation Patcher for Rondo of Blood's English Patch.  
 This is **NOT** a new translation just a new patcher script, since I had some problems with the old patcher.  
+Hopefully this will make the process easier for other people to.
+
 All hacking credit goes to the creators of the patch: https://www.romhacking.net/translations/846/  
 The patch is however included in this repo for user convinience.
 
