@@ -160,7 +160,8 @@ mkdir converted && \
 bchunk -w ./merged/DraculaX.bin ./merged/DraculaX.cue "./converted/DraculaX T"
 ```
 Unfortunately, `bchunk` doesn't create a cue-file.  
-You can steal mine (DraculaX.cue) from the `patch` directory if you want. 
+You can steal mine (DraculaX.cue) from the `patch` directory if you want.  
+Put it in our `converted` sub-directory.
 
 Here are the SHA256 values if you want to validate your files:
 ```sh
