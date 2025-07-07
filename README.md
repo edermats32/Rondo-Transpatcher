@@ -144,7 +144,8 @@ Anyway, during the steps here I'm using Linux. You can probably figure out how t
 I'll also be using the rip-type where you have one cue-file and multiple bin-files, since we convert it to the other versions anyway.  
 So this will cover all rip-types, you can jump to the steps that interrest you.
 
-If you can't find a program I use, there is a `source.txt` in each sub-directory in `tools` that explains some things. There is a `readme.txt` in all directories btw, but the those ones are mostly for fun.
+If you can't find a program I use, there is a `source.txt` in each sub-directory in `tools` that explains some things. 
+There is a `readme.txt` in all directories btw, but the those ones are mostly for fun.
 
 Now, after I've stopped rambling, start by merging the bin-files with `binmerge`:
 ```sh
