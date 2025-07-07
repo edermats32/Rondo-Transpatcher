@@ -82,21 +82,36 @@ git clone https://github.com/edermats32/Rondo-Transpatcher.git
 cd Rondo-Transpatcher
 ```
 # Patch Guide
-Choose your operating system:
+## Adding the source game
+Start by adding your game files. Navigate to the `source` sub-folder inside the Rondo-Transpatcher folder:
 
-<details>
-<summary>Windows (64-bit)</summary>
+<<*screenshot here*>>
 
-</details>
+Put your files in the folder that matches your rip type:
 
-<details>
-<summary>Linux (64-bit)</summary>
+| RIP TYPE | FOLDER |
+|----------|----------|
+| BIN+CUE   | `bin_cue` |
+| BIN+CUE (multiple bin-files)  | `bin_cue` |
+| ISO+WAV+CUE   | `iso_wav_cue`   |
 
-</details>
+Now the step differ a bit depending on your operating system.  
+Choose your operating system below:
 
-If you are feeling adventurous, there is a `readme.txt` in each folder that explains some things.  
-They don't really serve much purpose, but might be fun to read.
+- [Windows](#steps-for-windows)
+- [Linux](#steps-for-linux)
+
+## Steps for Windows
+Inside the root of the Rondo-Transpatcher folder there is a shortcut file `RondoTranspatcherEasyRun`.  
+Dubble-click the shourtcut and powershell window should open:
+
+## Steps for Linux
+
+
 
 # Manual Patching (for nerds)
 Here is how you can patch the game without my scripts.  
 This is for you who rather run the commands yourself, or maybe you just don't trust my scripts.
+
+If you are feeling adventurous, there is a `readme.txt` in each folder that explains some things.  
+They don't really serve much purpose, but might be fun to read.
