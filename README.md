@@ -110,7 +110,7 @@ Type the number that matches you rip-type and press enter:
 
 <<*screenshot**>
 
-If the patch was successful continue to the final step of the guide: [Locate you patched game](#locate-you-patched-game)
+If the patch was successful continue to the final step of the guide: [Locate your patched game](#locate-your-patched-game)
 
 
 ## Steps for Linux
@@ -129,9 +129,9 @@ Type the number that matches you rip-type and press enter:
 
 <*screenshot*>>
 
-If the patch was successful continue to the final step of the guide: [Locate you patched game](#locate-you-patched-game)
+If the patch was successful continue to the final step of the guide: [Locate your patched game](#locate-your-patched-game)
 
-## Locate you patched game
+## Locate your patched game
 
 # Manual Patching (for nerds)
 Here is how you can patch the game without my scripts.  
