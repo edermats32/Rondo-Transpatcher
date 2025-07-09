@@ -16,6 +16,7 @@ _oggdec="$ROOT_DIR/tools/oggdec/vorbis-tools-1.4.3-linux-x86-64/oggdec"
 chmod +x "$_applyppf3"
 chmod +x "$_binmerge"
 chmod +x "$_bchunk"
+chmod +x "$_oggdec"
 
 # Make sure 'sha256sum' exists, since it's not POSIX standard
 command -v sha256sum >/dev/null || { echo "sha256sum not found"; exit 1; }
