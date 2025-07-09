@@ -59,7 +59,7 @@ All 22 tracks are in separate bin-files.
 - A willingness to use a terminal
 
 ##### Windows specific:
-- Powershell 5 (should come with Windows 10 and above)
+- Powershell 5.1 (should come with Windows 10 and above)
 
 #### Linux specific:
 - Python 3 (only if you have multiple bin-files)
