@@ -45,13 +45,13 @@ If the rightful owners believe any content in this repo should be taken down, I 
 ## Game
 A copy of [Akumajō Dracula X: Chi no Rondo](https://www.ebay.com/sch/i.html?_nkw=Akumaj%C5%8D+Dracula+X%3A+Chi+no+Rondo) ripped to any of these formats:
 - CUE-file + ISO & WAV Tracks  
-Track02 and Track22 as ISO, the rest in WAV.
+***Track02 and Track22 as ISO, the rest in WAV.***
 
 - CUE-file + One large bin-file  
-The bin-file contains all 22 tracks.
+***The bin-file contains all 22 tracks.***
   
 - CUE-file + BIN tracks  
-All 22 tracks are in separate bin-files.
+***All 22 tracks are in separate bin-files.***
 
 ## System
 #### General:
@@ -104,7 +104,7 @@ Choose your operating system below:
 - [Linux](#steps-for-linux)
 
 ## Steps for Windows
-Inside the root of the Rondo-Transpatcher folder there is a shortcut file `RondoTranspatcherEasyRun`.  
+Inside the root of the *Rondo-Transpatcher-main* folder there is a shortcut file `RondoTranspatcherEasyRun`.  
 Dubble-click the shourtcut and powershell window should open:
 
 If for some reason the shortcut didn't work, follow these steps <<*create another readme and link to that, should include how top open WIN+r powershell.exe then navigate to the directory, the run the .ps1*>>
