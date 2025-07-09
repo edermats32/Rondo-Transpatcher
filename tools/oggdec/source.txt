@@ -1,0 +1,11 @@
+Used to convert the ogg-files to wav
+
+Got it from here, compiled it myself for both platforms:
+https://www.xiph.org/downloads/
+
+The Windows versions spazzes out a bit when converting.
+Maybe something went wrong when i crossed compiled from Arch...
+Oh well, it convertes the files atleast :D
+
+Usage:
+oggdec input.ogg -o output.wav

@@ -1,0 +1,5 @@
+Windows Version. Should i compile it myself? Nah, this will do:
+https://github.com/extramaster/bchunk/releases/tag/v1.2.1_repub.1
+
+Linux Version. This one i actually did compile:
+https://github.com/hessu/bchunk
