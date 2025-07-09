@@ -50,7 +50,7 @@ Track02 and Track22 as ISO, the rest in WAV.
 - CUE-file + One large bin-file  
 The bin-file contains all 22 tracks.
   
-- CUE-file + BIN tracks
+- CUE-file + BIN tracks  
 All 22 tracks are in separate bin-files.
 
 ## System
