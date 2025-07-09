@@ -120,7 +120,7 @@ Open your terminal of choice. If you're unsure, search for *terminal* in your De
 Navigate to where you extracted the zip-file (or git cloned).  
 If you did it in your `Downloads` folder you can run this command:
 ```sh
-cd ~/Downloads/Rondo-Transpatcher
+cd ~/Downloads/Rondo-Transpatcher-main
 ```
 Now you can run the script with:
 ```sh
