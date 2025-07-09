@@ -34,7 +34,7 @@ I have attempted to make the experience as user friendly as possibly with overly
 
 # Disclaimer
 
-*For obvious reasons, I will not show you how to obtain the game files. You should, of course, buy a legitimate copy (they go for around $200 on eBay) and rip it yourself. Pretty cool to own if nothing else — but I'm getting off-topic.*
+*For obvious reasons, I will not show you how to obtain the game files. You should, of course, buy a legitimate copy and rip it yourself. Pretty cool to own if nothing else — but I'm getting off-topic.*
 
 *Anyway, **I do not endorse or condone piracy of any kind**. This repo includes some audio and imagery from the game — nothing that can't easily be found on YouTube or with a quick Google image search.  
 If the rightful owners believe any content in this repo should be taken down, I will promptly and willingly comply.*
