@@ -1,3 +1,0 @@
-The final piece of the puzzle:
-
-https://github.com/putnam/binmerge/releases/tag/1.0.3
