@@ -31,3 +31,5 @@ Usage:
 
   - binmerge: In case your rip have multiple bin files, we merge them
 	      before conversion. 
+
+  - oggdec:   Converts ogg-files to wav-files
