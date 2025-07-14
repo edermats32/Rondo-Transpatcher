@@ -30,7 +30,7 @@ I have created two seperate scripts.
 A Powershell 5 Script for Windows users and a SHELL Script for Linux users.  
 
 Yes, you will have to use the terminal. **But do not fear!**  
-I have attempted to make the experience as user friendly as possibly with overly detailed instructions. 
+I have attempted to make the experience as user friendly as possibly with detailed instructions. 
 
 # Disclaimer
 
@@ -104,10 +104,15 @@ Choose your operating system below:
 - [Linux](#steps-for-linux)
 
 ## Steps for Windows
-Inside the root of the *Rondo-Transpatcher-main* folder there is a shortcut file `RondoTranspatcherEasyRun`.  
+Inside the root of the `Rondo-Transpatcher-main` folder there is a shortcut file `RondoTranspatcherEasyRun`.  
 Dubble-click the shourtcut and powershell window should open:
 
-If for some reason the shortcut didn't work, follow these steps <<*create another readme and link to that, should include how top open WIN+r powershell.exe then navigate to the directory, the run the .ps1*>>
+<<*screenshot**>
+
+If for some reason the shortcut didn't work, open a powershell window in the `Rondo-Transpatcher-main` folder and run the file with:
+```
+.\rondo-transpatcher.ps1
+```
 
 Now you should see the selection screen.  
 Type the number that matches you rip-type and press enter:
@@ -124,18 +129,21 @@ If you did it in your `Downloads` folder you can run this command:
 ```sh
 cd ~/Downloads/Rondo-Transpatcher-main
 ```
-Now you can run the script with:
+Run the script with:
 ```sh
 sh ./rondo-transpatcher.sh
 ```
 Now you should see the selection screen.  
 Type the number that matches you rip-type and press enter:
 
-<*screenshot*>>
+<img width="972" height="698" alt="image" src="https://github.com/user-attachments/assets/ede0d27a-10fa-454a-a3b9-3894945d8764" />
 
 If the patch was successful continue to the final step of the guide: [Locate your patched game](#locate-your-patched-game)
 
 ## Locate your patched game
+Your patched game will be in the output folder:
+
+
 
 # Manual Patching (for nerds)
 Here is how you can patch the game without my scripts.  
@@ -165,30 +173,9 @@ Unfortunately, `bchunk` doesn't create a cue-file.
 You can steal mine (DraculaX.cue) from the `patch` directory if you want.  
 Put it in our `converted` sub-directory.
 
-Here are the SHA256 values if you want to validate your files:
+Here is the SHA256 value for TRACK02 if you want to validate your's:
 ```sh
-5fadf081395eff0a3c7ecabec233ed59972fe40d910a2aecf4272292e94bbdd1 # Track01 (WAV)
 6386b25fd60b9dd30ee55c5ac5d3221c993c7e18a735340154b361b321338594 # Track02 (ISO)
-82441734e18d49f5a521b48beb8e74cb106282cf6a31f5c445de0c2e3fcef10a # Track03 (WAV)
-871eb3ecdcd6cd9b2649aa28a5b16db3eb9078b44bfc8deb05dbf0d84435d2e1 # Track04 (WAV)
-4b45d2bd4a2c16e82c4609f170f7a6e841a9bc2fa30b9154da2ec47205d8cecb # Track05 (WAV)
-8d31811fedf0446d084b46ce7dd9a3d1084d7875b7dde3ff56b5448bdf4b28aa # Track06 (WAV)
-57fddc7d67aa45af8db45704ad9c9f30b652dda86db2f60c285933fedd9bdecf # Track07 (WAV)
-30cefffd3ce5fd9c0272a242b1a7d38f02f17c771bb49ee9a67307f3058d7cb1 # Track08 (WAV)
-aa4e8bef1f61c7a1843f155c91ae2d5a14a82421de644f0c09930158e6b331bb # Track09 (WAV)
-1e39006acf1f40d8ce56486a433538ce50cce76a0980f32fc3929da8cc092bce # Track10 (WAV)
-cdc6593e7754905b6a725f9ffcd7a1adbec6535c43a2339060c6441d70a97486 # Track11 (WAV)
-d604feb4a24bf1e6a26c52c630091a83cb54b9cebe6c0bbfc1cc0407f137b74b # Track12 (WAV)
-719c24cc2c460a86d7df387a832a789d5d85a2f4e6331d8bccd5e6f5318972ba # Track13 (WAV)
-8d06180693764534b74ffd4315f1b848cf0f95e7de606330bc1d9bdae18fddf2 # Track14 (WAV)
-26e71f363125215697b7d47ba40e5f02547024cd5c641cea424c70815a24a5f7 # Track15 (WAV)
-a609f71c1cf3a81b8dba13c486c8be5688d1c1524b819bb3433fc8bc63a14849 # Track16 (WAV)
-29b144c4a4fe477771666b467bdbf878ca6ff3bf2a99f8f2b4026f2ca9b49689 # Track17 (WAV)
-5fa8b0c39106a31ea787a8907e2c3f6a728299346b918aa0c048f687787c346e # Track18 (WAV)
-fb672870d5329cf387c46b8f223b20fa2adbfbc0e5a7b5f7f01b05563fa09a40 # Track19 (WAV)
-48035a8ad1901e8ac6f4249c9d65adf39b9a9f9e334d96ff24ca8b5adafe2f3e # Track20 (WAV)
-09d1f8ab44ca7eceb73ef94d8496e9bb7de66f7789e5560f6c5ecb3ca732cfc3 # Track21 (WAV)
-272895873c6e5d73dd2eb6f01eab89e9e29ba175d2dc06b7d0ef76d69cd76cc2 # Track22 (ISO)
 ```
 
 Now get the patch. Either from this repo or from: https://www.romhacking.net/translations/846/  
