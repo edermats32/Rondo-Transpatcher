@@ -105,15 +105,13 @@ Put your files in the folder that matches your rip type:
 
 <br>
 <br>
-<br>
 Now the step differ a bit depending on your operating system.  
 Choose your operating system below:
 
 - [Windows](#steps-for-windows)
+  
 - [Linux](#steps-for-linux)
 <br>
-<br>
-
 
 ## Steps for Windows
 Inside the root of the `Rondo-Transpatcher-main` folder there is a shortcut file `RondoTranspatcherEasyRun`.  
