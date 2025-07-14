@@ -65,10 +65,10 @@ A copy of [Akumajō Dracula X: Chi no Rondo](https://www.ebay.com/sch/i.html?_nk
 - Python 3 (only if you have multiple bin-files)
 - POSIX compliant SHELL (ex. `bash` or `dash`)
   
-I provide all other (non standard) binaries used in the script through this repo, so you shouldn't have to install anything else.
+I provide all (non standard) binaries used in the script through this repo, so you shouldn't have to install anything (except `python3`, as explained above).  
 
 *The scripts are only tested on Arch Linux and Windows 11.  
-But other Linux distros and Windows versions should work fine as long as they meet the requirements.*
+But other Linux distros and Windows versions should work fine (as long as they are 64-bit).*
 
 # Setup
 ## Get the files from this repo

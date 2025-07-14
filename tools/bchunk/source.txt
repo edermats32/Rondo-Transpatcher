@@ -1,0 +1,2 @@
+Compiled both versions from source:
+https://github.com/hessu/bchunk
