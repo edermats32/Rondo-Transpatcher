@@ -207,3 +207,16 @@ Finally we can patch the game using `applyppf3`:
 ```sh
 applyppf3 a "Rondo of Blood T02.iso" ./draculax.ppf
 ```
+
+# Credits
+| Contributor     | Type of Contribution     | Listed Credit                                                                 |
+|----------------|--------------------------|--------------------------------------------------------------------------------|
+| Burnt Lasagna  | Production               | Directed the project and did all the audio work and some graphics hacking.     |
+| cubanraul      | Original Hacking         | The director back in 2004–2006. Worked on some text/audio hacking.             |
+| Tomaitheous    | Hacking                  | His contributions are too numerous to list here. Please check the readme.      |
+| pemdawg        | Original / Translation   | Worked on some early translation and text hacking in 2004–2005.                |
+| DarknessSavior | Translation              | Did the translation for the ferryman, signs, and the error message billboard.  |
+| Fragmare       | Graphics                 | Made the graphic for the new title screen.                                     |
+| ReyVGM         | Graphics                 | Made the new English graphics for the signs.                                   |
+| Vanya          | Graphics                 | Made the “Castlevania: Oops, Wrong Game!!!” title screen.                      |
+| edermats32     | Wasting of time          | Made this new script, Rondo-Transpatcher. Guess that means Linux support.
