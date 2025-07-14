@@ -1,7 +1,7 @@
 # Rondo-Transpatcher
 ![Rondo-Transpatcher Logo](https://github.com/user-attachments/assets/7be4009e-9ad8-4f20-a434-6456846d08f2)  
 Just a script to apply the Rondo of Blood English Translation Patch.
-## Table of Contents
+# Table of Contents
 #### Informative stuff:
 - [Introduction](#introduction)
 - [Disclaimer](#disclaimer)
@@ -12,10 +12,17 @@ Just a script to apply the Rondo of Blood English Translation Patch.
     + [System](#system)
 - [Setup](#setup)
     + [Get the files from this repo](#get-the-files-from-this-repo)
+        * [Zip method](#zip-method)
+        * [Git method](#git-method)
 - [Patch Guide](#patch-guide)
+    + [Adding the source game](#adding-the-source-game)
+    + [Steps for Windows](#steps-for-windows)
+    + [Steps for Linux](#steps-for-linux)
+    + [Locate your patched game](#locate-your-patched-game)
 
 #### Nerd stuff:
 - [Manual Patching (for nerds)](#manual-patching-for-nerds)
+- [Credits](#credits)
 
 # Introduction
 
@@ -85,10 +92,7 @@ git clone https://github.com/edermats32/Rondo-Transpatcher.git
 ```
 # Patch Guide
 ## Adding the source game
-Start by adding your game files. Navigate to the `source` sub-folder inside the Rondo-Transpatcher folder:
-
-<<*screenshot here*>>
-
+Start by adding your game files. Navigate to the `source` sub-folder inside the Rondo-Transpatcher folder.
 Put your files in the folder that matches your rip type:
 
 | RIP TYPE | FOLDER |
@@ -97,17 +101,25 @@ Put your files in the folder that matches your rip type:
 | BIN+CUE (multiple bin-files)  | `bin_cue` |
 | ISO+WAV+CUE   | `iso_wav_cue`   |
 
+<img width="1365" height="706" alt="image" src="https://github.com/user-attachments/assets/8e8c10a3-8349-4ede-b94c-dff73bbc8f47" />
+
+<br>
+<br>
+<br>
 Now the step differ a bit depending on your operating system.  
 Choose your operating system below:
 
 - [Windows](#steps-for-windows)
 - [Linux](#steps-for-linux)
+<br>
+<br>
+
 
 ## Steps for Windows
 Inside the root of the `Rondo-Transpatcher-main` folder there is a shortcut file `RondoTranspatcherEasyRun`.  
 Dubble-click the shourtcut and powershell window should open:
 
-<<*screenshot**>
+<img width="1367" height="711" alt="image" src="https://github.com/user-attachments/assets/e5a21b72-e2a2-4104-82f7-9e73d61ad224" />
 
 If for some reason the shortcut didn't work, open a powershell window in the `Rondo-Transpatcher-main` folder and run the file with:
 ```
@@ -117,7 +129,7 @@ If for some reason the shortcut didn't work, open a powershell window in the `Ro
 Now you should see the selection screen.  
 Type the number that matches you rip-type and press enter:
 
-<<*screenshot**>
+<img width="1362" height="713" alt="image" src="https://github.com/user-attachments/assets/2b7df363-11c8-4866-beaf-d7c85de8c317" />
 
 If the patch was successful continue to the final step of the guide: [Locate your patched game](#locate-your-patched-game)
 
@@ -142,6 +154,8 @@ If the patch was successful continue to the final step of the guide: [Locate you
 
 ## Locate your patched game
 Your patched game will be in the output folder:
+
+<img width="1365" height="713" alt="image" src="https://github.com/user-attachments/assets/741aeeba-a636-4f85-85ce-cbd0782452a8" />
 
 
 
