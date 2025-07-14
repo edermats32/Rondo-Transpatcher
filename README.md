@@ -80,9 +80,11 @@ But other Linux distros and Windows versions should work fine (as long as they a
 # Setup
 ## Get the files from this repo
 ### Zip method
-Download this repo as a zip:  
-<insert screenshot<>>
-Extract the zip to your any folder.  
+#### 1. Download this repo as a zip:  
+<img width="1344" height="601" alt="image" src="https://github.com/user-attachments/assets/9cd4e4d1-480c-478e-a37f-1b3d52ff9080" />  
+
+#### 2. Extract the zip to your any folder.  
+
 Prefably `Downloads`, to follow the guide more easily.
 
 ### Git method
@@ -92,7 +94,8 @@ git clone https://github.com/edermats32/Rondo-Transpatcher.git
 ```
 # Patch Guide
 ## Adding the source game
-Start by adding your game files. Navigate to the `source` sub-folder inside the Rondo-Transpatcher folder.
+Start by adding your game files.  
+Navigate to the `source` sub-folder inside the Rondo-Transpatcher folder.
 Put your files in the folder that matches your rip type:
 
 | RIP TYPE | FOLDER |
@@ -114,25 +117,31 @@ Choose your operating system below:
 <br>
 
 ## Steps for Windows
+#### 1a. Run the shortcut.  
 Inside the root of the `Rondo-Transpatcher-main` folder there is a shortcut file `RondoTranspatcherEasyRun`.  
 Dubble-click the shourtcut and powershell window should open:
 
 <img width="1367" height="711" alt="image" src="https://github.com/user-attachments/assets/e5a21b72-e2a2-4104-82f7-9e73d61ad224" />
+
+#### 1b. Run it manually.
 
 If for some reason the shortcut didn't work, open a powershell window in the `Rondo-Transpatcher-main` folder and run the file with:
 ```
 .\rondo-transpatcher.ps1
 ```
 
+#### 2. Run the patcher.  
 Now you should see the selection screen.  
 Type the number that matches you rip-type and press enter:
 
 <img width="1362" height="713" alt="image" src="https://github.com/user-attachments/assets/2b7df363-11c8-4866-beaf-d7c85de8c317" />
 
+#### 3. Hope all went well.
 If the patch was successful continue to the final step of the guide: [Locate your patched game](#locate-your-patched-game)
 
 
 ## Steps for Linux
+#### 1. Use your terminal and run the script.
 Open your terminal of choice. If you're unsure, search for *terminal* in your Desktop Enviornments search function.  
 Navigate to where you extracted the zip-file (or git cloned).  
 If you did it in your `Downloads` folder you can run this command:
@@ -143,18 +152,20 @@ Run the script with:
 ```sh
 sh ./rondo-transpatcher.sh
 ```
+
+#### 2. Run the patcher.
 Now you should see the selection screen.  
 Type the number that matches you rip-type and press enter:
 
 <img width="972" height="698" alt="image" src="https://github.com/user-attachments/assets/ede0d27a-10fa-454a-a3b9-3894945d8764" />
 
+#### 3. Hope all went well.
 If the patch was successful continue to the final step of the guide: [Locate your patched game](#locate-your-patched-game)
 
 ## Locate your patched game
 Your patched game will be in the output folder:
 
 <img width="1365" height="713" alt="image" src="https://github.com/user-attachments/assets/741aeeba-a636-4f85-85ce-cbd0782452a8" />
-
 
 
 # Manual Patching (for nerds)
@@ -218,4 +229,4 @@ applyppf3 a "Rondo of Blood T02.iso" ./draculax.ppf
 | Fragmare       | Graphics                 | Made the graphic for the new title screen.                                     |
 | ReyVGM         | Graphics                 | Made the new English graphics for the signs.                                   |
 | Vanya          | Graphics                 | Made the “Castlevania: Oops, Wrong Game!!!” title screen.                      |
-| edermats32     | Wasting of time          | Made this new script, Rondo-Transpatcher. Guess that means Linux support.
+| edermats32     | Wasting of time          | Made this new script, Rondo-Transpatcher. Guess that means Linux support.      |
